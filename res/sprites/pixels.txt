@@ -1,0 +1,5 @@
+fireBall  --> 432x144
+explosion --> 400x400
+backg     --> 500x500
+asteroid  --> 256x256
+health    --> 300x300
